@@ -111,3 +111,26 @@ header {
     font-size: 18px;
     font-weight: 500;
 }
+
+/* positive mindset */
+.positive-mindset {
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 300px;
+    margin: 130px 300px;
+}
+
+.positive-content {
+    padding: 10px 617px 60px 60px;
+}
+
+.postive-headline {
+    width: 459px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
