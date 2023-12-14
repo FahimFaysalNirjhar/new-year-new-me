@@ -4,3 +4,44 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+
+.btn-style {
+    border-radius: 5px;
+    background: #FFF;
+    color: #005FAC;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+    border: 0;
+}
+
+/* header related styles */
+header {
+    width: 1600px;
+    height: 809px;
+    background-image: url('../images/banner/banner3.png');
+}
+
+.header-content {
+    padding: 150px 230px 167px 900px;
+}
+
+.headline {
+    color: #FFF;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.hearder-para {
+    color: #FFF;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.header-content a{
+   padding: 320px ;
+}
